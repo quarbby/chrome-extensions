@@ -14,3 +14,10 @@ Download from [Chrome Web Store](https://chrome.google.com/webstore/detail/pengu
 Download from [Chrome Web Store](https://chrome.google.com/webstore/detail/penguins-pinterest-downlo/ejnpbbnegekheffpbkhljmllegglapfh)
 
 ![screenshot](pinterest/screenshot1.png)
+
+## Penguin's Instagram User Photo
+
+Get the user's latest instagram photo
+
+![screenshot](instagramuser/start1)
+![screenshot2](instagramuser/photopage)
