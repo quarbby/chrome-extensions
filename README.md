@@ -17,7 +17,8 @@ Download from [Chrome Web Store](https://chrome.google.com/webstore/detail/pengu
 
 ## Penguin's Instagram User Photo
 
-Get the user's latest instagram photo
+* Get the user's latest instagram photo
+* Currently can only get photos from public profiles
 
-![screenshot](instagramuser/start1)
-![screenshot2](instagramuser/photopage)
+![screenshot](instagramuser/startscreen.png)
+![screenshot2](instagramuser/photoscreen.png)
