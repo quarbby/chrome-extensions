@@ -20,5 +20,7 @@ Download from [Chrome Web Store](https://chrome.google.com/webstore/detail/pengu
 * Get the user's latest instagram photo
 * Currently can only get photos from public profiles
 
+Download from [Chrome Web Store](https://chrome.google.com/webstore/detail/penguins-instagram-user-p/naibcopfhinlemigdpklhllnobopoblb)
+
 ![screenshot](instagramuser/startscreen.png)
 ![screenshot2](instagramuser/photoscreen.png)
